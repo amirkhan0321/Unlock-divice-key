@@ -10,4 +10,10 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "0bab24e548a0cb25",
+        "key": "danish0321",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
